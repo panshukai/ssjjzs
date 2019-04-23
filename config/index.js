@@ -50,7 +50,7 @@ module.exports = {
     // Paths
     assetsRoot: path.resolve(__dirname, '../dist'),
     assetsSubDirectory: 'static',
-    assetsPublicPath: 'https://wangziwan.github.io/ssjjzs/dist/',
+    assetsPublicPath: 'https://panshukai.github.io/ssjjzs/dist/',
 
     /**
      * Source Maps
